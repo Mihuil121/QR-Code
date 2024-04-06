@@ -14,7 +14,7 @@ This is a simple React application that allows users to generate QR codes based 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/Mihuil121/QR-Code
 ```
 
 2. Install dependencies:
