@@ -47,9 +47,5 @@ npm start
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for any features or improvements you'd like to see.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Этот README.md предоставляет краткое описание проекта, описывает его особенности, предоставляет инструкции по установке и использованию, перечисляет используемые технологии, приглашает к сотрудничеству и сообщает о лицензии.
