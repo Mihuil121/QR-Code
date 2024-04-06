@@ -1,6 +1,6 @@
 ``
 # QR Code Generator
-
+![](https://github.com/Mihuil121/QR-Code/blob/main/gif.gif)
 This is a simple React application that allows users to generate QR codes based on the input URL provided. It utilizes the `react-qr-code` library for generating QR codes.
 
 ## Features
